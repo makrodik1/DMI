@@ -1,0 +1,6 @@
+git init
+git add .
+git config --global user.email geox9838@gmail.com
+git commit -m "20171115_12_00"
+git remote add origin https://github.com/makrodik1/DMI.git
+git push -u origin master
