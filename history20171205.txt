@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/makrodik1/DMI
+    3  pwd
+    4  ls -l
+    5  cd DMI
+    6  ls -l
+    7  mkdir PYTHON
+    8  cd PYTHON
+    9  idle
+   10  cd ..
+   11  nano git-upload
+   12  history
+   13  history > history20171205.txt
