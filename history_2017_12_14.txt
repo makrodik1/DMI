@@ -1,0 +1,14 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/makrodik1
+    3  https://github.com/makrodik1/DMI
+    4  git clone https://github.com/makrodik1/DMI
+    5  cd DMI
+    6  cd pythoncd python
+    7  ls -l
+    8  cd PYTHON
+    9  idle
+   10  idle &
+   11  ls -l
+   12  cd ..
+   13  history
+   14  history > history_2017_12_14.txt
